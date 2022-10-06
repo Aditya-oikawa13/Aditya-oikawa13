@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-oikawa13
 - 👀 I’m interested in data.
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data engineering.
+- 💞️ I’m looking to collaborate on any project related to data engineering.
 - 📫 How to reach me mail at kumaraditya2208@gmail.com
 
 <!---
